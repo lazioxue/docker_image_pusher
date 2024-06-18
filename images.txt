@@ -1,6 +1,10 @@
 docker.io/zabbix/zabbix-agent2 
 docker.io/zabbix/zabbix-server-pgsql:latest
+docker.io/zabbix/zabbix-server-mysql:latest
 docker.io/zabbix/zabbix-web-nginx-pgsql:latest
 docker.io/zabbix/zabbix-java-gateway:latest
 docker.io/zabbix/zabbix-proxy-mysql
 docker.io/linuxserver/mariadb:latest
+linuxserver/plex
+homeassistant/home-assistant
+docker.io/centos
