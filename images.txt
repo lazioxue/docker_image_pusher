@@ -13,7 +13,7 @@ docker.io/busybox
 docker.io/httpd  
 docker.io/linuxserver/qbittorrent
 jeessy/ddns-go
-xhofe/alist 
+xhofe/alist
 kodcloud/kodbox 
 linuxserver/plex
 homeassistant/home-assistant
