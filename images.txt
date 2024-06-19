@@ -11,9 +11,9 @@ docker.io/grafana/grafana
 docker.io/nginx
 docker.io/busybox 
 docker.io/httpd  
-docker.io/library/elasticsearch 
-docker.io/kibana 
-docker.io/elastic/logstash  
+docker.elastic.co/elasticsearch/elasticsearch
+docker.elastic.co/kibana/kibana
+docker.elastic.co/logstash/logstash 
 docker.io/redis 
 docker.io/linuxserver/qbittorrent
 jeessy/ddns-go
