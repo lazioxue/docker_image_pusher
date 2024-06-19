@@ -1,6 +1,3 @@
-docker.elastic.co/elasticsearch/elasticsearch
-docker.elastic.co/kibana/kibana
-docker.elastic.co/logstash/logstash
 docker.io/redis
 docker.io/linuxserver/qbittorrent
 jeessy/ddns-go
