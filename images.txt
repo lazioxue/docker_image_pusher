@@ -5,6 +5,9 @@ docker.io/zabbix/zabbix-web-nginx-pgsql:latest
 docker.io/zabbix/zabbix-java-gateway:latest
 docker.io/zabbix/zabbix-proxy-mysql
 docker.io/linuxserver/mariadb:latest
+docker.io/grafana/promtail
+docker.io/grafana/loki 
+docker.io/grafana/grafana  
 linuxserver/plex
 homeassistant/home-assistant
 docker.io/centos
