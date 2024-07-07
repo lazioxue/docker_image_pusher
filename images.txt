@@ -1,1 +1,1 @@
-luodaoyi/kms-server
+ollama/ollama
