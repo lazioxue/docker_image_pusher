@@ -1,1 +1,1 @@
-joxit/docker-registry-ui
+sulinggg/openwrt:x86_64
