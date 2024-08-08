@@ -1,1 +1,1 @@
-sulinggg/openwrt:x86_64
+wbsu2003/lx-music-sync-server
