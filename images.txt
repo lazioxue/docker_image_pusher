@@ -1,1 +1,2 @@
-requarks/wiki
+
+zabbix-proxy-mysql:6.4
