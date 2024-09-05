@@ -1,2 +1,1 @@
-
-zabbix-proxy-mysql:6.4
+docker.io/zabbix/zabbix-java-gateway:6.4
