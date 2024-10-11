@@ -1,1 +1,1 @@
-docker.io/zabbix/zabbix-java-gateway:6.4
+vbkunin/itop
