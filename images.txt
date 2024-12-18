@@ -1,1 +1,3 @@
-openproject/community:12
+grafana/loki
+grafana/promtail
+grafana/grafana
