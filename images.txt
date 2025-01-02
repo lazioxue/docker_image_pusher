@@ -1,2 +1,1 @@
-zabbix/zabbix-web-nginx-pgsql:alpine-6.4.12
-zabbix/zabbix-web-nginx-pgsql:alpine-6.4.20
+zabbix/zabbix-java-gateway:alpine-6.4.20
