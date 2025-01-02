@@ -1,1 +1,2 @@
-postgres:16.6
+zabbix/zabbix-server-pgsql:6.4.20
+zabbix/zabbix-proxy-sqlite3:6.4.20
