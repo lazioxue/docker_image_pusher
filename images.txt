@@ -1,2 +1,2 @@
-zabbix/zabbix-server-pgsql:6.4
-zabbix/zabbix-proxy-sqlite3:6.4
+zabbix/zabbix-server-pgsql:alpine-latest
+zabbix/zabbix-proxy-sqlite3:6.4-alpine-latest
