@@ -1,1 +1,1 @@
-zabbix/zabbix-proxy-sqlite3:6.4.12
+zabbix/zabbix-proxy-sqlite3:6.4.12-alpine
