@@ -1,1 +1,1 @@
-zabbix/zabbix-server-pgsql:alpine-6.4.12
+zabbix/zabbix-web-nginx-pgsql:alpine-6.4.12
