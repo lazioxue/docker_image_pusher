@@ -1,8 +1,1 @@
-zabbix/zabbix-agent2
-zabbix/zabbix-server-pgsql
-zabbix/zabbix-web-nginx-pgsql
-zabbix/zabbix-java-gateway
-zabbix/zabbix-proxy-mysql
-zabbix/zabbix-server-mysql
-zabbix/zabbix-proxy-sqlite3
-zabbix/zabbix-web-service
+postgres:16.6
