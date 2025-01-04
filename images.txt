@@ -1,1 +1,2 @@
-zabbix/zabbix-java-gateway:alpine-6.4.20
+herberthe0229/iptv-sources:latest
+
