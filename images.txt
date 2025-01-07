@@ -1,2 +1,2 @@
-herberthe0229/iptv-sources:latest
+lobehub/lobe-chat
 
