@@ -1,1 +1,2 @@
-mintplexlabs/anythingllm
+zabbix/zabbix-server-pgsql:7.2
+zabbix/zabbix-web-nginx-pgsql:alpine-7.2
