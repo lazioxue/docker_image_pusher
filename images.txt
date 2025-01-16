@@ -1,2 +1,1 @@
-zabbix/zabbix-server-pgsql:alpine-7.2-latest
-zabbix/zabbix-web-nginx-pgsql:alpine-7.2-latest
+zabbix/zabbix-agent2:6.4.20-alpine
