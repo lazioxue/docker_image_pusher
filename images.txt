@@ -1,1 +1,1 @@
-zabbix/zabbix-agent2:6.4.20-alpine
+youshandefeiyang/allinone
