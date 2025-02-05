@@ -1,2 +1,1 @@
-froodle/s-pdf
 lobehub/lobe-chat-database:latest
