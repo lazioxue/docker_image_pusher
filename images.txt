@@ -1,1 +1,2 @@
-dpanel/dpanel:latest
+
+s-pdf
