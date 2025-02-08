@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:latest
+localai/localai:v2.25.0-ffmpeg
