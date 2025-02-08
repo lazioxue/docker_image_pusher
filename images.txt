@@ -1,1 +1,2 @@
-localai/localai:v2.25.0-ffmpeg
+ xprobe/xinference:latest-cpu
+dpanel/dpanel:latest
