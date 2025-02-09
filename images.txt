@@ -1,2 +1,1 @@
- xprobe/xinference:latest-cpu
-dpanel/dpanel:latest
+gdy666/lucky
