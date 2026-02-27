@@ -1,1 +1,1 @@
-linuxserver/firefox:latest
+ghcr.io/senshinya/moontv:latest
