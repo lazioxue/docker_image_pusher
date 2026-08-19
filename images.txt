@@ -1,1 +1,1 @@
-geelonn/lxserver:latest
+bobcc4/yinyun-lxserver:latest
