@@ -1,1 +1,1 @@
-berriai/litellm:latest
+ghcr.io/berriai/litellm:main-latest
