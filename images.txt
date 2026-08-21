@@ -1,1 +1,1 @@
-bobcc4/yinyun-lxserver:latest
+berriai/litellm:latest
