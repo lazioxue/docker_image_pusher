@@ -1,1 +1,3 @@
 ghcr.io/berriai/litellm:main-latest
+redis:latest
+
