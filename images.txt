@@ -1,3 +1,2 @@
-ghcr.io/berriai/litellm:main-latest
-redis:latest
+taksss/php-epg
 
